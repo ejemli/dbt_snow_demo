@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: demo
+    database: talan_ods
+    schema: EJE_DEMO_SCHEMA
+    tables:
+      - name: bike
+      - name: weather
